@@ -168,6 +168,6 @@ count                              Retrieve the number of instances of a class.
 usage                              <class name>.count()
 
 
-AUTHORS
+AUTHOR`
 NWODO THOMAS IFEANYI | Email: Nwodothomas@gmail.com
 
